@@ -1,0 +1,10 @@
+<applicationDocs targetNamespace="http://wadl.dev.java.net/2009/02">
+
+    <doc xml:lang="en" title="The doc for your API">
+        News Project wadl
+    </doc>
+
+    <doc xml:lang="mn" title="The doc for your API">
+        Үндсэн wadl
+    </doc>
+</applicationDocs>
